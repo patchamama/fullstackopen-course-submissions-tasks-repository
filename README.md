@@ -28,5 +28,7 @@ Put the whole react repository of the project to each folder except the folder <
 
 ```sh
 rm -rf .git
+```
+```sh
 rm -rf node_modules/ && npm i
 ```
