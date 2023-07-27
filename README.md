@@ -1,4 +1,4 @@
-### Answers to exercises of openfullstack.com(openfullstack.com) course from the University of Helsinki
+### Answers to exercises of [openfullstack.com](openfullstack.com) course from the University of Helsinki
 
 **Deep Dive Into Modern Web Development**
 [Full Stack open](https://fullstackopen.com/en/about)
