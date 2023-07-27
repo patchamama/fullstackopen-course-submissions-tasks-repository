@@ -17,3 +17,10 @@ part2
 </pre>
 
 Put the whole react repository of the project to each folder except the folder <i>node_modules</i>
+
+# to delete the files in the main directory to submit all the content
+
+```sh
+rm -rf .git
+rm -rf node_modules/ && npm i
+```
