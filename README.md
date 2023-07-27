@@ -1,4 +1,11 @@
-# example-submission-repository
+# Answer to exercises of openfullstack.com[openfullstack.com] course from the University of Helsinki
+
+**Deep Dive Into Modern Web Development**
+**Full Stack open**[https://fullstackopen.com/en/about]
+
+Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
+
+# Example-submission-repository
 
 
 You may submit all the exercises of this course into the same repository, or use multiple repositories. If you submit exercises of different parts into the same repository, please use a sensible naming scheme for the directories.
@@ -18,7 +25,7 @@ part2
 
 Put the whole react repository of the project to each folder except the folder <i>node_modules</i>
 
-# to delete the files in the main directory to submit all the content
+# To delete the files in the main directory to submit all the content
 
 ```sh
 rm -rf .git
